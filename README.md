@@ -41,5 +41,5 @@ Power BI Desktop, Power Query, DAX, custom HTML visuals
 Dataset provided by the course instructor for a learning project.
 
 ## Team
-- [Your Name](https://www.linkedin.com/in/your-profile)
-- [Teammate Name](https://www.linkedin.com/in/teammate-profile)
+- [Norhan Sultan](https://www.linkedin.com/in/norhan-sultan-6489a5414)
+- [Donia Magdy]
